@@ -1,0 +1,14 @@
+asgiref
+autopep8
+django==2.2.10
+pycodestyle
+pytz
+sqlparse
+Unipath
+dj-database-url
+python-decouple
+gunicorn
+whitenoise
+spacy==2.3.5
+pyresparser
+django-crispy-forms==1.7.2
